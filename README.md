@@ -1,6 +1,6 @@
 ## Welcome to America
 
-You can use the [editor on GitHub](https://images.fineartamerica.com/images/artworkimages/mediumlarge/1/america-freedom-gary-gunderson.jpg) to maintain and preview the content for your website in Markdown files.
+You can use the [Edward The Eagle]() to maintain and preview the content for your website in Markdown files.
 ![image](https://images.fineartamerica.com/images/artworkimages/mediumlarge/1/america-freedom-gary-gunderson.jpg)
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
@@ -11,9 +11,9 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# What to do in America
+## What to eat in America
+### Why you should love America
 
 - Bulleted
 - List
